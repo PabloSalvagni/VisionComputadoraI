@@ -1,3 +1,3 @@
 # VisionComputadoraI
 
-### Ejericio 2
+### Ejercicio practico 2
