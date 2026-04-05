@@ -1,4 +1,3 @@
 # VisionComputadoraI
 
-### TP2
-branch /tp2
+### Ejericio 2
